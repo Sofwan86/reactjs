@@ -70,44 +70,8 @@
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
       },
       "nat": "FI"
-    },
-    {
-      "gender": "male",
-      "name": { "title": "Mr", "first": "Archie", "last": "King" },
-      "location": {
-        "street": { "number": 5786, "name": "Market Street" },
-        "city": "Napier",
-        "state": "Hawke'S Bay",
-        "country": "New Zealand",
-        "postcode": 30027,
-        "coordinates": { "latitude": "80.7827", "longitude": "-19.8369" },
-        "timezone": {
-          "offset": "+8:00",
-          "description": "Beijing, Perth, Singapore, Hong Kong"
-        }
-      },
-      "email": "archie.king@example.com",
-      "login": {
-        "uuid": "1309a037-8e49-4078-b4a4-1c2d04617749",
-        "username": "redfish750",
-        "password": "implants",
-        "salt": "FA0KwzdR",
-        "md5": "770742018c2f7085884ff1edca0e6fdb",
-        "sha1": "1c259741db7d6ac06d0016315d3ef1b5738b1deb",
-        "sha256": "5f83c62c30f75d6190026c06c0446415bc5901558422c740bbc016e06c247137"
-      },
-      "dob": { "date": "1987-12-08T16:54:00.322Z", "age": 34 },
-      "registered": { "date": "2013-01-21T22:54:29.019Z", "age": 8 },
-      "phone": "(495)-771-4360",
-      "cell": "(275)-400-8642",
-      "id": { "name": "", "value": null },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/29.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
-      },
-      "nat": "NZ"
     }
+    
   ],
   "info": {
     "seed": "dd1d84eb25574cdc",
