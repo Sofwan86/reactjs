@@ -36,41 +36,8 @@
         "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
       },
       "nat": "NL"
-    },
-    {
-      "gender": "female",
-      "name": { "title": "Miss", "first": "Julia", "last": "Lassila" },
-      "location": {
-        "street": { "number": 1381, "name": "Verkatehtaankatu" },
-        "city": "Rautjärvi",
-        "state": "Lapland",
-        "country": "Finland",
-        "postcode": 49417,
-        "coordinates": { "latitude": "-66.5181", "longitude": "-110.5388" },
-        "timezone": { "offset": "+4:30", "description": "Kabul" }
-      },
-      "email": "julia.lassila@example.com",
-      "login": {
-        "uuid": "d3cb0207-6b27-4a72-8685-b1de09f37760",
-        "username": "happyladybug979",
-        "password": "neptune",
-        "salt": "iXpDVUCG",
-        "md5": "3b5d9edef4972a3d03343620243791e4",
-        "sha1": "7990d600998b314122626098e1d2a88ae5a8760a",
-        "sha256": "22a1c5129ebebe8bc31fc3931062b41510ed59285c7a5bfe292c54b442df2984"
-      },
-      "dob": { "date": "1992-06-26T00:41:27.733Z", "age": 29 },
-      "registered": { "date": "2004-04-08T05:32:17.035Z", "age": 17 },
-      "phone": "08-404-244",
-      "cell": "042-674-76-08",
-      "id": { "name": "HETU", "value": "NaNNA676undefined" },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/14.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
-      },
-      "nat": "FI"
     }
+   
     
   ],
   "info": {
