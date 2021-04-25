@@ -1,31 +1,27 @@
 [
   {
-    "first": "Steff",
-    "last": "Kolk",
+    "name": "Steff Kolk",
     "number": 9623,
     "country": "Netherlands",
     "email": "steff.kolk@example.com",
     "phone": "(636)-273-7974"
   },
   {
-    "first": "Selésio",
-    "last": "Caldeira",
+    "name": "Selésio Caldeira",
     "number": 8409,
     "country": "Brazil",
     "email": "selesio.caldeira@example.com",
     "phone": "(46) 1041-3550"
   },
   {
-    "first": "Gerald",
-    "last": "Fuller",
+    "name": "Gerald Fuller",
     "number": 7077,
     "country": "United States",
     "email": "gerald.fuller@example.com",
     "phone": "(424)-801-1305"
   },
   {
-    "first": "Karl",
-    "last": "Edwards",
+    "name": "Karl Edwards",
     "number": 2238,
     "country": "Australia",
     "email": "karl.edwards@example.com",
@@ -33,80 +29,70 @@
   },
 
   {
-    "first": "Karolina",
-    "last": "Trøan",
+    "name": "Karolina Trøan",
     "number": 1185,
     "country": "Norway",
     "email": "karolina.troan@example.com",
     "phone": "22031150"
   },
   {
-    "first": "Julia",
-    "last": "Lassila",
+    "name": "Julia Lassila",
     "number": 1381,
     "country": "Finland",
     "email": "julia.lassila@example.com",
     "phone": "08-404-244"
   },
   {
-    "first": "Agapito",
-    "last": "Fogaça",
+    "name": "Agapito Fogaça",
     "number": 322,
     "country": "Brazil",
     "email": "agapito.fogaca@example.com",
     "phone": "(03) 1158-3196"
   },
   {
-    "first": "Selma",
-    "last": "Pedersen",
+    "name": "Selma Pedersen",
     "number": 2460,
     "country": "Denmark",
     "email": "selma.pedersen@example.com",
     "phone": "04542620"
   },
   {
-    "first": "Richard",
-    "last": "Klotz",
+    "name": "Richard Klotz",
     "number": 7497,
     "country": "Germany",
     "email": "richard.klotz@example.com",
     "phone": "0791-0210133"
   },
   {
-    "first": "Susan",
-    "last": "Brewer",
+    "name": "Susan Brewer",
     "number": 3768,
     "country": "United Kingdom",
     "email": "susan.brewer@example.com",
     "phone": "015394 52195"
   },
   {
-    "first": "Charlotte",
-    "last": "Mackay",
+    "name": "Charlotte Mackay",
     "number": 3636,
     "country": "Canada",
     "email": "charlotte.mackay@example.com",
     "phone": "781-659-1481"
   },
   {
-    "first": "James",
-    "last": "Thompson",
+    "name": "James Thompson",
     "number": 6797,
     "country": "Canada",
     "email": "james.thompson@example.com",
     "phone": "904-243-3262"
   },
   {
-    "first": "Michaela",
-    "last": "Muller",
+    "name": "Michaela Muller",
     "number": 3303,
     "country": "Switzerland",
     "email": "michaela.muller@example.com",
     "phone": "076 965 58 23"
   },
   {
-    "first": "Archie",
-    "last": "King",
+    "name": "Archie King",
     "number": 5786,
     "country": "New Zealand",
     "email": "archie.king@example.com",
