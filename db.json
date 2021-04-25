@@ -1,49 +1,115 @@
-{
-  "results": [
-    {
-      "gender": "male",
-      "name": { "title": "Mr", "first": "Steff", "last": "Kolk" },
-      "location": {
-        "street": { "number": 9623, "name": "Elsmarsweg" },
-        "city": "Hapert",
-        "state": "Utrecht",
-        "country": "Netherlands",
-        "postcode": 81657,
-        "coordinates": { "latitude": "44.5866", "longitude": "-140.4754" },
-        "timezone": {
-          "offset": "+1:00",
-          "description": "Brussels, Copenhagen, Madrid, Paris"
-        }
-      },
-      "email": "steff.kolk@example.com",
-      "login": {
-        "uuid": "d67f85cc-880a-4779-bfbc-d7c2b5a4c6ce",
-        "username": "redrabbit871",
-        "password": "vivian",
-        "salt": "IHcOECJR",
-        "md5": "134a7a82a89814d45de80a82daf33bf8",
-        "sha1": "0b8eec64da32b89907416caa181992895de40dfc",
-        "sha256": "90fc4e271218fca3e55f961043651de3e2beec15ade821b8f4d373de1dec16ac"
-      },
-      "dob": { "date": "1969-06-27T19:43:54.098Z", "age": 52 },
-      "registered": { "date": "2015-05-30T04:20:37.714Z", "age": 6 },
-      "phone": "(636)-273-7974",
-      "cell": "(087)-851-4855",
-      "id": { "name": "BSN", "value": "12405875" },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/14.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
-      },
-      "nat": "NL"
-    }
-   
-    
-  ],
-  "info": {
-    "seed": "dd1d84eb25574cdc",
-    "results": 20,
-    "page": 1,
-    "version": "1.3"
+[
+  {
+    "first": "Steff",
+    "last": "Kolk",
+    "number": 9623,
+    "country": "Netherlands",
+    "email": "steff.kolk@example.com",
+    "phone": "(636)-273-7974"
+  },
+  {
+    "first": "Selésio",
+    "last": "Caldeira",
+    "number": 8409,
+    "country": "Brazil",
+    "email": "selesio.caldeira@example.com",
+    "phone": "(46) 1041-3550"
+  },
+  {
+    "first": "Gerald",
+    "last": "Fuller",
+    "number": 7077,
+    "country": "United States",
+    "email": "gerald.fuller@example.com",
+    "phone": "(424)-801-1305"
+  },
+  {
+    "first": "Karl",
+    "last": "Edwards",
+    "number": 2238,
+    "country": "Australia",
+    "email": "karl.edwards@example.com",
+    "phone": "07-2059-0101"
+  },
+
+  {
+    "first": "Karolina",
+    "last": "Trøan",
+    "number": 1185,
+    "country": "Norway",
+    "email": "karolina.troan@example.com",
+    "phone": "22031150"
+  },
+  {
+    "first": "Julia",
+    "last": "Lassila",
+    "number": 1381,
+    "country": "Finland",
+    "email": "julia.lassila@example.com",
+    "phone": "08-404-244"
+  },
+  {
+    "first": "Agapito",
+    "last": "Fogaça",
+    "number": 322,
+    "country": "Brazil",
+    "email": "agapito.fogaca@example.com",
+    "phone": "(03) 1158-3196"
+  },
+  {
+    "first": "Selma",
+    "last": "Pedersen",
+    "number": 2460,
+    "country": "Denmark",
+    "email": "selma.pedersen@example.com",
+    "phone": "04542620"
+  },
+  {
+    "first": "Richard",
+    "last": "Klotz",
+    "number": 7497,
+    "country": "Germany",
+    "email": "richard.klotz@example.com",
+    "phone": "0791-0210133"
+  },
+  {
+    "first": "Susan",
+    "last": "Brewer",
+    "number": 3768,
+    "country": "United Kingdom",
+    "email": "susan.brewer@example.com",
+    "phone": "015394 52195"
+  },
+  {
+    "first": "Charlotte",
+    "last": "Mackay",
+    "number": 3636,
+    "country": "Canada",
+    "email": "charlotte.mackay@example.com",
+    "phone": "781-659-1481"
+  },
+  {
+    "first": "James",
+    "last": "Thompson",
+    "number": 6797,
+    "country": "Canada",
+    "email": "james.thompson@example.com",
+    "phone": "904-243-3262"
+  },
+  {
+    "first": "Michaela",
+    "last": "Muller",
+    "number": 3303,
+    "country": "Switzerland",
+    "email": "michaela.muller@example.com",
+    "phone": "076 965 58 23"
+  },
+  {
+    "first": "Archie",
+    "last": "King",
+    "number": 5786,
+    "country": "New Zealand",
+    "email": "archie.king@example.com",
+    "phone": "(495)-771-4360"
   }
-}
+]
