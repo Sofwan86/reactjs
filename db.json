@@ -3,28 +3,28 @@
     [
   {
     "name": "Steff Kolk",
-    "number": 9623,
+    "number": 1,
     "country": "Netherlands",
     "email": "steff.kolk@example.com",
     "phone": "(636)-273-7974"
   },
   {
     "name": "Selésio Caldeira",
-    "number": 8409,
+    "number": 2,
     "country": "Brazil",
     "email": "selesio.caldeira@example.com",
     "phone": "(46) 1041-3550"
   },
   {
     "name": "Gerald Fuller",
-    "number": 7077,
+    "number": 3,
     "country": "United States",
     "email": "gerald.fuller@example.com",
     "phone": "(424)-801-1305"
   },
   {
     "name": "Karl Edwards",
-    "number": 2238,
+    "number": 4,
     "country": "Australia",
     "email": "karl.edwards@example.com",
     "phone": "07-2059-0101"
@@ -32,70 +32,70 @@
 
   {
     "name": "Karolina Trøan",
-    "number": 1185,
+    "number": 5,
     "country": "Norway",
     "email": "karolina.troan@example.com",
     "phone": "22031150"
   },
   {
     "name": "Julia Lassila",
-    "number": 1381,
+    "number": 6,
     "country": "Finland",
     "email": "julia.lassila@example.com",
     "phone": "08-404-244"
   },
   {
     "name": "Agapito Fogaça",
-    "number": 322,
+    "number": 7,
     "country": "Brazil",
     "email": "agapito.fogaca@example.com",
     "phone": "(03) 1158-3196"
   },
   {
     "name": "Selma Pedersen",
-    "number": 2460,
+    "number": 8,
     "country": "Denmark",
     "email": "selma.pedersen@example.com",
     "phone": "04542620"
   },
   {
     "name": "Richard Klotz",
-    "number": 7497,
+    "number": 9,
     "country": "Germany",
     "email": "richard.klotz@example.com",
     "phone": "0791-0210133"
   },
   {
     "name": "Susan Brewer",
-    "number": 3768,
+    "number": 10,
     "country": "United Kingdom",
     "email": "susan.brewer@example.com",
     "phone": "015394 52195"
   },
   {
     "name": "Charlotte Mackay",
-    "number": 3636,
+    "number": 11,
     "country": "Canada",
     "email": "charlotte.mackay@example.com",
     "phone": "781-659-1481"
   },
   {
     "name": "James Thompson",
-    "number": 6797,
+    "number": 12,
     "country": "Canada",
     "email": "james.thompson@example.com",
     "phone": "904-243-3262"
   },
   {
     "name": "Michaela Muller",
-    "number": 3303,
+    "number": 13,
     "country": "Switzerland",
     "email": "michaela.muller@example.com",
     "phone": "076 965 58 23"
   },
   {
     "name": "Archie King",
-    "number": 5786,
+    "number": 14,
     "country": "New Zealand",
     "email": "archie.king@example.com",
     "phone": "(495)-771-4360"
